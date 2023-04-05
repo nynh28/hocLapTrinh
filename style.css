@@ -1,0 +1,42 @@
+.chung{
+    width: 350%;
+    height: 130px;
+    background-color: grey;
+    border: 2px solid red;
+    border-radius: 15px;
+}
+.khung{
+   background-color:beige;
+   width: 1000px;
+    height: 800px;
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+.khung1{
+    width: 20%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.rieng{
+    width: 200px;
+    height: 600px;
+    background-color: gray;
+    align-self: center;
+    border: 2px solid red;
+    border-radius: 15px;
+}
+
+
+.duoi{
+    align-self: flex-end;;
+    margin-bottom: 50px;
+}
+.end{
+    align-self: flex-end;
+    margin-bottom: 50px;
+}
+.cach{
+    margin-top: 50px;
+}
